@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fl3szz
-- ✈️ I'm 18 years old
-- 👀 I’m interested in backend and android app development
-- 🌱 I’m currently learning Java
+- ✈️ I'm 19 years old
+
 
 
 
